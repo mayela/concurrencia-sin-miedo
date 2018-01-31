@@ -1,0 +1,6 @@
+[package]
+name = "talk"
+version = "0.1.0"
+authors = ["Maricela Sanchez <mayela0x14@gmail.com>"]
+
+[dependencies]
