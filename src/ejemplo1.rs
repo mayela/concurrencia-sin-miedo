@@ -3,8 +3,8 @@ fn sum(x: usize, y: usize) -> usize {
 }
 
 fn main() {
-  let x = Tipo {num: 3};
-  let y = Tipo {num: 2};
+  let x = 3;
+  let y = 2;
   let s = sum(x, y);
   
   let c = sum(x, y);
